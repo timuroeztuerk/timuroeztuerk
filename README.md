@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Thanks for visiting my GitHub Page! I currently work at the University of Bayreuth as a Ph.D. candidate in empirical economic history. My current research focuses on demographic change, industrialization, religion, and political outcomes in Germany between 1846 and 1946. I wrote my Master's thesis on Globalization in the Ottoman Empire from 1880 to 1914.
+
+🔭 I’m currently working on my research regarding the electoral outcomes in Weimar Germany, while also focusing on how we can bring advanced machine learning and LLMs to economics and economic history research.
+
+📫 You can reach me by my e-mail: timur[dot]oeztuerk[at]uni-bayreuth[dot]de
+
+⚡You can explore some of my research on: [My Personal Website](timurozturk.de)
+
+
 <!--
 **timuroeztuerk/timuroeztuerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
