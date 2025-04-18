@@ -6,7 +6,7 @@ Thanks for visiting my GitHub Page! I currently work at the University of Bayreu
 
 📫 You can reach me by my e-mail: timur[dot]oeztuerk[at]uni-bayreuth[dot]de
 
-⚡You can explore some of my research on: [My Personal Website](timurozturk.de)
+⚡You can explore some of my research on: [My Personal Website](https://timurozturk.de)
 
 
 <!--
